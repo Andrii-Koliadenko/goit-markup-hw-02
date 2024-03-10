@@ -14,46 +14,46 @@ body {
 	button {
 		cursor: pointer;}
 
-		.logo {
-			font-family: "Raleway", sans-serif;
-			font-weight: 700;
-			font-size: 18px;
-			line-height: 1.17;
-			letter-spacing: 0.03em;
-			text-transform: uppercase;
-			color: #4d5ae5;
-		} 
-		.text-color {
-			color: #2e2f42;
-		}
-		.menu-link {
-			font-weight: 500;
-			font-size: 16px;
-			line-height: 1.5;
-			letter-spacing: 0.02em;
-			color: #2e2f42;
-		}
-		.menu-link:hover,
+		/* =========== Page Header styles =========== */
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+} 
+.text-color {
+    color: #2e2f42;
+}
+.menu-link {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.menu-link:hover,
 .menu-link:focus {
     color: #404bbf;
 }
-
-		.address-page-header {
-			font-style: normal;
-		}
-		.menu-address-link {
-			font-weight: 400;
-			font-size: 16px;
-			font-style: normal;
-			line-height: 1.5;
-			letter-spacing: 0.02em;
-			color: #434455;
-		} 
-		.menu-address-link:hover,
-		.menu-address-link:focus {
-			color: #404bbf;
-		}
-		/* =========== /Page Header styles =========== */
+.adr-page-header {
+    font-style: normal;
+}
+.menu-adress-link {
+    font-weight: 400;
+    font-size: 16px;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+} 
+.menu-adress-link:hover,
+.menu-adress-link:focus {
+    color: #404bbf;
+}
+/* =========== /Page Header styles =========== */
 		
 		/* =========== Hero Section styles =========== */
 		.hero {
