@@ -1,6 +1,6 @@
 body {
 	font-family: 'Roboto', sans-serif;   
-	color: #2e2f42;
+	color: #434455;
 	background-color: #FFFFFF;}
 
 	ul, ol {
@@ -26,15 +26,15 @@ body {
 		.text-color {
 			color: #2e2f42;
 		}
-		.menu-link {
+		.menu-item {
 			font-weight: 500;
 			font-size: 16px;
 			line-height: 1.5;
 			letter-spacing: 0.02em;
 			color: #2e2f42;
 		}
-		.menu-link:hover,
-		.menu-link:focus {
+		.menu-item:hover,
+		.menu-item:focus {
 			color: #404bbf;
 		}
 		.address-page-header {
@@ -57,9 +57,10 @@ body {
 		/* =========== Hero Section styles =========== */
 		.solution {
 			background-color: #2e2f42;
-			width: 1440px;
-			line-height: 600px;
-
+			font-size: 56px;
+			line-height: 1.07;
+			letter-spacing: 0.02em;
+			color: #ffffff;
 		}
 		.main-page {
 			font-weight: 500;
@@ -75,7 +76,7 @@ body {
 			line-height: 1.5;
 			letter-spacing: 0.04em;
 			color: #fff;
-			background-color:#2e2f42;
+			background-color: #4D5AE5;
 		}
 		.btn-order-service:hover,
 		.btn-order-service:focus {
@@ -148,7 +149,7 @@ body {
 			text-transform: capitalize;
 			line-height: 1.11;
 			letter-spacing: 0.02em;
-			color: #2e2f42;
+			color: #434455;
 		}
 		.our-portfolio-list-title {
 			background-color: #FFFFFF;
@@ -182,7 +183,7 @@ body {
 			text-transform: uppercase;
 			color:#4d5ae5;
 		}
-		.text-color-footer {
+		.text-footer-color {
 			color: #f4f4fd;
 		}
 		.page-footer-text {
