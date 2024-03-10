@@ -53,13 +53,16 @@ body {
 		/* =========== /Page Header styles =========== */
 		
 		/* =========== Hero Section styles =========== */
-		.solution-title {
+		.hero {
 			background-color: #2e2f42;
-			font-size: 56px;;
+		}
+		.main-title {
+			font-weight: 700;
+			font-size: 56px;
+			text-align: center;
 			line-height: 1.07;
 			letter-spacing: 0.02em;
-			color: #ffffff;
-		}
+			color: #FFFFFF;}
 
 		.main-page {
 			font-weight: 500;
